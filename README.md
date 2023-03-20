@@ -1,2 +1,2 @@
-# JetpackComposeTabLayout
-How to use tab layout in jetpack compose
+# JetpackCompose TabLayout
+How to create tab layout in jetpack compose
