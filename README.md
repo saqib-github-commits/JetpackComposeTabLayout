@@ -1,7 +1,7 @@
-# JetpackCompose TabLayout
+# JetpackCompose Tabs
 
 ### Overview
-This Project shows, How to create tab layout in jetpack compose using jetpack Compose Foundation api. The project is linked with medium post 
+This Project shows, How to implement tabs in jetpack compose using jetpack Compose Foundation api. The project is linked with medium post 
 
 ### Medium post
 - [Jetpack Compose Tab Layout](https://medium.com/@wunder.saqib/jetpack-compose-tabs-tablayout-official-api-367888daca31)
